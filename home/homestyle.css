@@ -12,13 +12,12 @@ body {
 }
 
 .updiv {
-    background-color: yellow;
     border: 1px solid transparent;
 }
 
 .titlebox {
     width: 800px;
-    background-color: gray;
+    background-color: transparent;
     border-radius: 100px;
     margin: 30px auto 10px auto;
     padding-top: 20px;
@@ -50,14 +49,12 @@ body {
 }
 
 .intro {
-    background-color: skyblue;
     width: 800px;
     height: 250px;
     margin: 20px auto 20px auto;
 }
 
 .left {
-    background-color: green;
     width: 50%;
     height: 50%;
     float: left;
@@ -74,10 +71,8 @@ body {
 }
 
 .player {
-    background-color: red;
-    width: auto;
-    height: auto;
-    margin: 50px 200px 50px 200px;
+    width: 70%;
+    margin: 50px auto 50px auto;
     border: 1px solid white;
     padding: 20px;
     border-radius: 5px;
@@ -97,7 +92,6 @@ body {
 }
 
 .teamimg {
-    background-color: midnightblue;
     margin: 50px auto 50px auto;
     display: flex;
     flex-direction: column;
